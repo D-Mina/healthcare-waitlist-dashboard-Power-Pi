@@ -10,13 +10,12 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 
 ### 🔹 Summary View
 <img width="1299" height="731" alt="image" src="https://github.com/user-attachments/assets/41603d0b-5f38-4f08-ae05-94fd128a6251" />
-
-![Summary View](Dashboard_Screenshots/Summary_View.png)
+![Summary View]
 
 ### 🔹 Detailed View
 <img width="1737" height="974" alt="image" src="https://github.com/user-attachments/assets/8a190609-b96b-4f30-badc-c19798a111e9" />
 
-![Detaild View](Dashboard_Screenshots/Detaild_View.png)
+![Detaild View]
 
 ---
 
